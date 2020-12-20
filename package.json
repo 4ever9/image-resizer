@@ -1,0 +1,23 @@
+{
+  "name": "@forever9/image-resizer",
+  "version": "0.1.0",
+  "description": "Resize image",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ever9/image-resizer.git"
+  },
+  "keywords": [
+    "image-resizer",
+    "image",
+    "resize",
+    "resizer"
+  ],
+  "author": "Aiden X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4ever9/image-resizer/issues"
+  },
+  "homepage": "https://github.com/4ever9/image-resizer#readme"
+}
